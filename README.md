@@ -1,1 +1,1 @@
-## End to End Machine Learning Project(student_performence_analyzer)
+## End to End Machine Learning Project(student_performance_analyzer)
